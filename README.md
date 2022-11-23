@@ -1,8 +1,8 @@
 > **Warning**
 > 
 > This repository is a snapshot of [`teloxide/teloxide`] repository, made just before a rebase.
-> We've made the rebase to remove big files from the history, to make the repository smaller, faster to clone.
-> This snapshot is left for history purposes and to make old commit links work.
+> We've made the rebase to remove big files from the history, to make the repository smaller and faster to clone.
+> This snapshot is left for historical purposes and to make old commit links work.
 >
 > To file issues, make PRs, or view current developments, go to the [`teloxide/teloxide`] repository.
 > 
